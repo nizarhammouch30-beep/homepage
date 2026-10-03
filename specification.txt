@@ -1,0 +1,4 @@
+HTML Tags: html, head, link, title, body, div, h1, nav, a, p, footer, button, script
+CSS: body, h1, nav, a, p, footer - properties: margin, background, color, text-align, padding, font-size
+JS: alert on load and button click
+Bootstrap: container class and CDN link
